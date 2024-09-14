@@ -4,3 +4,10 @@ virtual classroom for student and instructor where student can register and logi
 2.then enroll 
 3.then can select student books and chapters
 4. watch video or text
+
+
+Summary:
+User Registration: Handles account creation for students.
+Class Enrollment: Students can view available classes and enroll in them.
+Frontend: Built using a modern UI library like React, handling form submission, and API interaction.
+Backend: Spring Boot manages user registration, authentication, and class enrollment with validation and database storage.
